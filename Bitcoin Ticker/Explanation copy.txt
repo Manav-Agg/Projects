@@ -1,0 +1,1 @@
+It's a app that is going to tell us the current price in various currencies such as euros or pounds or dollars for various cryptocurrencies such as Bitcoin, Ethereum  and Lite coins.
