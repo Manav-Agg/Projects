@@ -1,0 +1,1 @@
+It's a Magic Ball app, which you can ask to answer all of your difficult life questions, such as should I work or should I watch Netflix? This app has a whole bunch of random images And every time tap on the Magic Ball, it'll give a new answer.
